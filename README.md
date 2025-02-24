@@ -1,5 +1,8 @@
 # 💫 About Me:
-i full stack web developer <br>movile developer <br>ai / binary exploitation inthesiaste <br>
+I am a full-stack web developer<br>
+Mobile developer<br>
+AI / Binary Exploitation Enthusiast
+
 
 
 ## 🌐 Socials:
