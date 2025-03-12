@@ -4,7 +4,8 @@ Mobile developer<br>
 AI / Binary Exploitation Enthusiast
 
 
-<div class="tenor-gif-embed" data-postid="6370990461093599888" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/conquest-invincible-bald-gauntlet-comics-gif-6370990461093599888">Conquest Invincible GIF</a>from <a href="https://tenor.com/search/conquest-gifs">Conquest GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Uploading conquest-invincible.gif…]()
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedrami-kadache-208187274) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a_kadache@estin.dz) 
