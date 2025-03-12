@@ -1,8 +1,4 @@
-# 💫 About Me:
-I am a full-stack web developer<br>
-Mobile developer<br>
-AI / Binary Exploitation Enthusiast
-
+Stand ready for my arrival Worm
 
 ![Image](https://github.com/user-attachments/assets/e548674a-e500-46fa-8967-7e43f7abb7ec)
 
