@@ -1,6 +1,6 @@
-Stand ready for my arrival Worm
+<h1>Stand ready for my arrival Worm</h1>
 
-![Image](https://github.com/user-attachments/assets/e548674a-e500-46fa-8967-7e43f7abb7ec)
+![Image](https://github.com/user-attachments/assets/4ea78164-3a31-4bf7-a0b9-3db83d6c061f)
 
 
 ## 🌐 Socials:
