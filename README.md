@@ -4,7 +4,7 @@ Mobile developer<br>
 AI / Binary Exploitation Enthusiast
 
 
-![Uploading conquest-invincible.gif…]()
+![Image](https://github.com/user-attachments/assets/e548674a-e500-46fa-8967-7e43f7abb7ec)
 
 
 ## 🌐 Socials:
