@@ -4,6 +4,7 @@ Mobile developer<br>
 AI / Binary Exploitation Enthusiast
 
 
+![Uploading conquest-invincible.gif…]()
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedrami-kadache-208187274) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a_kadache@estin.dz) 
