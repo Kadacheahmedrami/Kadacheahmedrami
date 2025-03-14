@@ -1,4 +1,8 @@
-<h1>Stand ready for my arrival Worm</h1>
+<h1>about me</h1>
+<p>
+  Next.js & Flutter Developer | Passionate Robotic Enthusiast | Innovating the Future
+</p>
+
 
 ![Image](https://github.com/user-attachments/assets/4ea78164-3a31-4bf7-a0b9-3db83d6c061f)
 
