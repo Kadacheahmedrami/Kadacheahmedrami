@@ -3,7 +3,6 @@
   Next.js & Flutter Developer | Passionate Robotic Enthusiast | Innovating the Future
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/algeria/Kadacheahmedrami.svg)](https://user-badge.committers.top/algeria/Kadacheahmedrami)
 
 
 ![Image](https://github.com/user-attachments/assets/4ea78164-3a31-4bf7-a0b9-3db83d6c061f)
