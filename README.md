@@ -1,7 +1,5 @@
-<h1>About me </h1>
-<p>
-  Stand ready for my arrival
-</p>
+<h1>  Stand ready for my arrival </h1>
+
 
 
 
