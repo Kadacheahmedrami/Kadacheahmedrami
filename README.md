@@ -1,6 +1,6 @@
 <h1>About me </h1>
 <p>
-  Next.js & Flutter Developer | Passionate Robotic Enthusiast | Innovating the Future
+  Stand ready for my arrival
 </p>
 
 
