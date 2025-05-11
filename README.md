@@ -1,10 +1,8 @@
-<h1>  Stand ready for my arrival Worm</h1>
+<h1>  the empire needs you</h1>
 
 
 
-
-![Image](https://github.com/user-attachments/assets/4ea78164-3a31-4bf7-a0b9-3db83d6c061f)
-
+![Image](https://github.com/user-attachments/assets/14cfabfb-e77c-46fd-9f12-bfb1012878f5)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedrami-kadache-208187274) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a_kadache@estin.dz) 
