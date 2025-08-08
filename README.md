@@ -1,6 +1,6 @@
 # Hi there! I'm Ahmed Rami Kadache 👋
 
-Full-Stack Developer | DevOps | IoT & Embedded Systems Enthusiast
+Full-Stack Developer | DevOps focused | IoT & Embedded Systems Enthusiast
 
 [![Algeria Top Contributor](https://user-badge.committers.top/algeria/Kadacheahmedrami.svg)](https://user-badge.committers.top/algeria/Kadacheahmedrami)
 
