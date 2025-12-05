@@ -20,10 +20,11 @@ const Rami = {
 };
 ```
 
+
 </td>
 <td width="50%">
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=19BA9419F5993420C1F75C3451EB4EEEECCFBF01D18818D8C905C936EB2AB753">
-  <img alt="Oracle DevOps Professional Certificate" src="https://github.com/user-attachments/assets/d74cd764-2a0a-4a66-836c-07c278414572" />
+ <img width="2200" height="1700" alt="eCertificate (1)" src="https://github.com/user-attachments/assets/b5451114-a768-43cc-ba24-8721efc757ea" />
 </a>
 </td>
 </tr>
