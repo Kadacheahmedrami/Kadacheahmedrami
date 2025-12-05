@@ -1,21 +1,36 @@
 # Hi there! I'm Ahmed Rami Kadache 👋
 
-Full-Stack Developer | DevOps focused | IoT & Embedded Systems Enthusiast
+Full-Stack Developer | Oracle-Certified DevOps Professional
 
 [![Algeria Top Contributor](https://user-badge.committers.top/algeria/Kadacheahmedrami.svg)](https://user-badge.committers.top/algeria/Kadacheahmedrami)
 
----
 
-## About Me
+
+<table>
+<tr>
+<td width="50%">
+ About Me
 
 ```typescript
-const ahmed = {
+const Rami = {
     location: "Algeria 🇩🇿",
     currentFocus: "Full-Stack Development & DevOps",
     askMeAbout: ["Web Dev", "Mobile Apps", "Cloud", "System Design"],
     currentlyLearning: "Distributed Systems & Microservices Architecture"
 };
 ```
+
+</td>
+<td width="50%">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=19BA9419F5993420C1F75C3451EB4EEEECCFBF01D18818D8C905C936EB2AB753">
+  <img alt="Oracle DevOps Professional Certificate" src="https://github.com/user-attachments/assets/d74cd764-2a0a-4a66-836c-07c278414572" />
+</a>
+</td>
+</tr>
+</table>
+
+
+
 
 ## 🛠️ Technology Arsenal
 
